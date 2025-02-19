@@ -1,5 +1,0 @@
-User input : 12
-Twelve
--------------------
-User input : 4
-Four
