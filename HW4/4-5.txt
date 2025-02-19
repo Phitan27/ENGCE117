@@ -1,3 +1,0 @@
-Input Days :
-27
-27 Days = 2332800 seconds

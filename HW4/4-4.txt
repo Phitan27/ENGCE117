@@ -1,3 +1,0 @@
-Enter H & W : 
-3 5
-Triangle Area : 7.5

@@ -1,3 +1,0 @@
-User Input :
-22
-22 degree Celsius = 71.6 degree fahrenheit
